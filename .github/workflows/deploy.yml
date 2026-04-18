@@ -29,3 +29,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.GCP_CREDENTIALS }}'
           projectId: vet-clinics-493413
           target: vet-clinics-admin-panel
+          channelId: live
